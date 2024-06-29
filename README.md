@@ -5,4 +5,4 @@ We concluded that the best algorithm for this task is the Transformer model with
 
 Given the nature of the project we cannot share the original dataset.
 
-More information can be found in the [report](./res/report.pdf).
+More information can be found in the [report](./res/project-report.pdf).
