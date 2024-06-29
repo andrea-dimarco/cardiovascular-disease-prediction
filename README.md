@@ -5,4 +5,4 @@ We concluded that the best algorithm for this task is the Transformer model with
 
 Given the nature of the project we cannot share the original dataset.
 
-More information can be found in the [report](./res/Machine Learning Project 2022-2023 report.pdf).
+More information can be found in the [report](./res/report.pdf).
