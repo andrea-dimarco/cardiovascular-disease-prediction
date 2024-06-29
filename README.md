@@ -4,3 +4,5 @@ In this project we analyzed patient medical and personal data to create a trajec
 We concluded that the best algorithm for this task is the Transformer model with no positional encoding since it focuses more on the events rather than the order of said events, thanks to the Attention Matrix mechanism.
 
 Given the nature of the project we cannot share the original dataset.
+
+More information can be found in the [report](./res/'Machine Learning Project 2022-2023 report.pdf').
